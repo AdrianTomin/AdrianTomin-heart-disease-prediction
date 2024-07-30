@@ -144,7 +144,7 @@ Choose one of these options to set up the environment, depending on your prefere
 
 ---
 
-This README provides a comprehensive guide for setting up the environment, installing dependencies, and running the project locally. Adjust paths and repository links as needed to match your specific setup.
+This README provides a comprehensive guide for setting up the environment, installing dependencies, and running the notebook.
 
 
 ## Badges
