@@ -2,6 +2,29 @@
 
 This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine-learning model capable of predicting whether someone has heart disease based on their medical information.
 
+Built with:
+<br>
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+<br>
+<br>
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-fff.svg?style=for-the-badge&logo=jupyter&logoColor=orange)
+<br>
+<br>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<br>
+<br>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+<br>
+<br>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+<br>
+<br>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<br>
+<br>
+
+
 We are going to take the following approach:
 1. Problem Definition
 2. Data
